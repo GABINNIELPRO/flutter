@@ -1,0 +1,1 @@
+ C:\\Users\\Niel\\StudioProjects\\moyen_paiement\\.dart_tool\\flutter_build\\ed47cfbdb76a55fa7a7313022bea0b9d\\native_assets.yaml: 
